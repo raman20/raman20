@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>Raman Dwivedi</b>
 - 👀 I’m interested in things which are beyond my limts
-- 🌱 I’m currently learning typescript, golang and kafka
+- 🌱 I’m currently learning ["typescript", "golang", "kafka", "webassembly"]
 - 💞️ I’m looking to collaborate on any project which challenges me and gives me new learning opportunities
 - 📫 Reach me through <a href="mailto:ramandwivedi20@protonmail.com">my mail</a> or <a href="https://linkedin.com/in/raman20">Linkedin</a>
 
